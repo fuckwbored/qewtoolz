@@ -1,0 +1,4 @@
+pyshorteners
+requests
+faker
+colorama
